@@ -1,3 +1,4 @@
+not 9 pro
 ---
 manufacturer: 
     - xiaomi
